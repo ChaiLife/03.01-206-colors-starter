@@ -68,12 +68,15 @@ footer {
     }
     #column-1 {
         background-color: wheat;
+        width: 33%;
     }
     #column-2 {
         background-color: orchid;
+        width: 33%;
     }
     #column-3 {
         background-color: skyblue;
+        width: 34%;
     }
     footer {
         background-color: olive;
@@ -89,12 +92,15 @@ footer {
     }
     #column-1 {
         background-color: firebrick;
+        width: 33%;
     }
     #column-2 {
         background-color: grey;
+        width: 33%;
     }
     #column-3 {
         background-color: lavenderblush;
+        width: 34%;
     }
     footer {
         background-color: lightcoral;
